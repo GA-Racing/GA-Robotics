@@ -28,9 +28,3 @@ seitlich über räder
 
 für labyrinth abstand räder nach vorne kleiner
 
-
-
-
-
-
-d
