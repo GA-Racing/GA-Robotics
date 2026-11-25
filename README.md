@@ -22,9 +22,23 @@ evtl etwas von robotshop seite bestellen
 Linienverfolger:
 Abstand bodensensoren zu motor = Abstand Hinterräder
 
+
 vorne + seitlich abstandssensor
-
 seitlich über räder
-
 für labyrinth abstand räder nach vorne kleiner
 
+
+
+
+## Skizze neu
+<img width="765" height="517" alt="Screenshot 2026-11-25 152110" src="https://github.com/user-attachments/assets/558bd308-2c1d-421d-b88a-7f16c9bed9d5" />
+
+
+
+## To-Do Liste
+- [ ] Design und CAD
+- [ ] 3D-Drucken
+- [ ] Assemblen
+- [ ] Verkabeln
+- [ ] Code Linienverfolger
+- [ ] Code Labyrinth
